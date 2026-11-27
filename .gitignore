@@ -225,6 +225,11 @@ __marimo__/
 
 # Virtual Environment
 LMSENV/
+env/
+.venv/
+venv/
+
+# Environment Variables
 .env
 
 # Python
